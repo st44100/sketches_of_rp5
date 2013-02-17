@@ -1,4 +1,11 @@
-# My Sketch
+# My First Sketch
+#
+# USAGE:
+#   rp5 run my_sketch.rb
+#   or
+#   rp5 watch my_sketch.rb
+
+require 'ruby-processing'
 
 class MySketch < Processing::App
 
